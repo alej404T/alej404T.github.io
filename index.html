@@ -4,61 +4,100 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Portfolio de Juan Alejandro Corchado Almeida, estudante de Analise e Desenvolvimento de Sistemas na FIAP.">
+  <meta name="theme-color" content="#163d34">
+  <meta property="og:title" content="Juan Alejandro | Portfolio de TI">
+  <meta property="og:description" content="Projetos, estudos e evolucao em desenvolvimento de sistemas.">
+  <meta property="og:type" content="website">
   <title>Juan Alejandro | Portfolio de TI</title>
   <link rel="preconnect" href="https://avatars.githubusercontent.com">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header class="topbar">
-    <a class="brand" href="#inicio">Juan Alejandro</a>
+    <a class="brand" href="#inicio" aria-label="Voltar para o inicio">JA</a>
     <nav aria-label="Navegacao principal">
       <a href="#projetos">Projetos</a>
       <a href="#formacao">Formacao</a>
+      <a href="#habilidades">Habilidades</a>
       <a href="#contato">Contato</a>
     </nav>
   </header>
 
   <main>
     <section class="hero" id="inicio">
-      <div class="hero-text">
-        <p class="eyebrow">Estudante de TI em evolucao</p>
+      <div class="hero-copy">
+        <p class="eyebrow">Desenvolvimento web e sistemas</p>
         <h1>Juan Alejandro Corchado Almeida</h1>
         <p class="intro">
-          Estou construindo minha base em desenvolvimento de sistemas, com foco em projetos web,
-          automacao, banco de dados e aplicacoes que resolvem problemas reais.
+          Estudante de Analise e Desenvolvimento de Sistemas na FIAP, com ensino medio
+          tecnico em Informatica pela FIAP School. Estou construindo projetos para aprender
+          na pratica: front-end, back-end, banco de dados, APIs e publicacao na web.
         </p>
-        <div class="actions">
-          <a class="button primary" href="#projetos">Ver projetos</a>
-          <a class="button ghost" href="https://github.com/alej404T" target="_blank" rel="noreferrer">GitHub</a>
+
+        <div class="hero-actions">
+          <a class="button primary" href="#projetos">Ver meus projetos</a>
+          <a class="button secondary" href="https://github.com/alej404T" target="_blank" rel="noreferrer">Abrir GitHub</a>
         </div>
       </div>
 
-      <aside class="profile-panel" aria-label="Resumo do perfil">
-        <img src="https://avatars.githubusercontent.com/u/155794355?v=4" alt="Foto de perfil do GitHub de Juan Alejandro">
-        <div>
-          <strong>Stack em estudo</strong>
-          <p>HTML, CSS, JavaScript, Node.js, SQLite, APIs, Git e fundamentos de sistemas.</p>
+      <aside class="profile-card" aria-label="Resumo profissional">
+        <img src="https://avatars.githubusercontent.com/u/155794355?v=4" alt="Foto de perfil de Juan Alejandro no GitHub">
+        <div class="profile-content">
+          <p class="small-label">Buscando</p>
+          <strong>Estagio ou oportunidade junior em TI</strong>
+          <p>
+            Quero crescer com projetos reais, aprender com profissionais mais experientes e
+            evoluir como desenvolvedor com consistencia.
+          </p>
         </div>
       </aside>
+    </section>
+
+    <section class="stats-strip" aria-label="Resumo rapido">
+      <div>
+        <strong>4</strong>
+        <span>projetos em destaque</span>
+      </div>
+      <div>
+        <strong>FIAP</strong>
+        <span>ADS em andamento</span>
+      </div>
+      <div>
+        <strong>Node.js</strong>
+        <span>back-end em estudo</span>
+      </div>
+      <div>
+        <strong>GitHub</strong>
+        <span>portfolio publico</span>
+      </div>
     </section>
 
     <section class="section" id="projetos">
       <div class="section-heading">
         <p class="eyebrow">Projetos</p>
-        <h2>O que ja coloquei em pratica</h2>
+        <h2>Projetos que mostram minha evolucao</h2>
+        <p>
+          Separei os trabalhos que melhor contam minha trajetoria: projetos da FIAP,
+          desafios de codigo e sistemas mais completos feitos para praticar produto real.
+        </p>
       </div>
 
       <div class="project-grid">
-        <article class="project-card">
+        <article class="project-card featured">
           <div class="project-top">
             <span>HTML</span>
             <a href="https://github.com/alej404T/StudentBank" target="_blank" rel="noreferrer">Repositorio</a>
           </div>
           <h3>StudentBank</h3>
           <p>
-            Fintech criada para avaliacao na FIAP. O projeto mostra uma primeira experiencia
-            com interface web, organizacao de telas e ideia de produto financeiro para estudantes.
+            Fintech criada para avaliacao na FIAP. Foi um dos projetos que usei para praticar
+            estrutura de paginas, organizacao visual e transformacao de uma ideia em tela.
           </p>
+          <ul>
+            <li>Projeto academico</li>
+            <li>Interface web</li>
+            <li>Produto financeiro para estudantes</li>
+          </ul>
         </article>
 
         <article class="project-card">
@@ -68,9 +107,14 @@
           </div>
           <h3>Teste Infosimples</h3>
           <p>
-            Script feito seguindo regras de um desafio para vaga de estagio em TI. Usei para treinar
-            leitura de requisitos, organizacao de codigo e entrega objetiva.
+            Script desenvolvido seguindo regras de um desafio para vaga de estagio em TI.
+            Usei para treinar leitura de requisitos, logica e entrega objetiva.
           </p>
+          <ul>
+            <li>JavaScript</li>
+            <li>Requisitos de desafio</li>
+            <li>Pratica para estagio</li>
+          </ul>
         </article>
 
         <article class="project-card">
@@ -80,9 +124,14 @@
           </div>
           <h3>Caixa da Oficina Online</h3>
           <p>
-            Sistema web para fluxo de caixa de oficinas, com login, separacao por perfis,
-            controle de dados por unidade e base SQLite para rodar como MVP.
+            Sistema web para fluxo de caixa de oficinas, com login, perfis de usuario,
+            separacao de dados por unidade e base SQLite para rodar como MVP.
           </p>
+          <ul>
+            <li>Back-end com Node.js</li>
+            <li>Controle de acesso</li>
+            <li>Regras de negocio</li>
+          </ul>
         </article>
 
         <article class="project-card">
@@ -93,59 +142,82 @@
           <h3>Oficina Pro SaaS</h3>
           <p>
             Aplicacao multi-oficina com usuarios, ordens de servico, ponto de mecanicos,
-            geracao de PDF e testes basicos para validar as partes principais.
+            geracao de PDF e testes basicos para validar fluxos importantes.
           </p>
+          <ul>
+            <li>APIs e autenticacao</li>
+            <li>PDF e auditoria</li>
+            <li>Testes automatizados</li>
+          </ul>
         </article>
       </div>
     </section>
 
-    <section class="section split" id="formacao">
-      <div>
+    <section class="section dark" id="formacao">
+      <div class="section-heading">
         <p class="eyebrow">Formacao</p>
-        <h2>FIAP como base principal</h2>
+        <h2>Base tecnica com foco em pratica</h2>
       </div>
+
       <div class="timeline">
         <article>
-          <strong>FIAP</strong>
+          <span>Atual</span>
+          <h3>FIAP</h3>
           <p>Analise e Desenvolvimento de Sistemas, em andamento.</p>
         </article>
         <article>
-          <strong>FIAP School</strong>
+          <span>Base tecnica</span>
+          <h3>FIAP School</h3>
           <p>Ensino medio tecnico em Informatica.</p>
         </article>
       </div>
     </section>
 
-    <section class="section skills">
-      <div>
-        <p class="eyebrow">Aprendizado</p>
-        <h2>Onde estou focando agora</h2>
+    <section class="section skills" id="habilidades">
+      <div class="section-heading">
+        <p class="eyebrow">Habilidades</p>
+        <h2>O que estou desenvolvendo agora</h2>
       </div>
-      <ul class="skill-list">
-        <li>Front-end com HTML, CSS e JavaScript</li>
-        <li>Back-end com Node.js e Express</li>
-        <li>Banco de dados com SQLite, PostgreSQL e MongoDB</li>
-        <li>Git, GitHub e publicacao de projetos</li>
-        <li>Boas praticas de login, permissoes e separacao de dados</li>
-      </ul>
+
+      <div class="skill-grid">
+        <article>
+          <h3>Front-end</h3>
+          <p>HTML, CSS, JavaScript, responsividade e organizacao visual.</p>
+        </article>
+        <article>
+          <h3>Back-end</h3>
+          <p>Node.js, Express, APIs, login, permissoes e rotas protegidas.</p>
+        </article>
+        <article>
+          <h3>Banco de dados</h3>
+          <p>SQLite, PostgreSQL, MongoDB e modelagem basica para sistemas web.</p>
+        </article>
+        <article>
+          <h3>Ferramentas</h3>
+          <p>Git, GitHub, VS Code, Docker, Postman e publicacao de projetos.</p>
+        </article>
+      </div>
     </section>
 
     <section class="contact" id="contato">
       <div>
         <p class="eyebrow">Contato</p>
-        <h2>Aberto a oportunidades de estagio e projetos junior</h2>
+        <h2>Aberto a estagio, projetos junior e networking em TI</h2>
         <p>
-          Busco oportunidades para aprender com um time, praticar codigo em ambiente real
-          e crescer como desenvolvedor.
+          Meu objetivo agora e aprender com pratica real, melhorar meu codigo todos os dias
+          e participar de projetos onde eu possa evoluir com responsabilidade.
         </p>
       </div>
-      <a class="button primary" href="https://github.com/alej404T" target="_blank" rel="noreferrer">Abrir GitHub</a>
+      <div class="contact-actions">
+        <a class="button primary" href="https://github.com/alej404T" target="_blank" rel="noreferrer">GitHub</a>
+        <a class="button secondary" href="textos-linkedin-github.md">Textos do perfil</a>
+      </div>
     </section>
   </main>
 
   <footer>
     <span>Juan Alejandro Corchado Almeida</span>
-    <span>Portfolio em desenvolvimento</span>
+    <span>Portfolio pessoal de TI</span>
   </footer>
 
   <script src="script.js"></script>

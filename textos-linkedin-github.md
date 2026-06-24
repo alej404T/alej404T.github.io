@@ -1,40 +1,54 @@
 # Textos prontos para LinkedIn e GitHub
 
-## Headline do LinkedIn
+Estes textos estao prontos para revisar e colar nos perfis. Mantive um tom honesto de estudante em crescimento, sem parecer que voce esta fingindo senioridade.
 
-Estudante de Analise e Desenvolvimento de Sistemas na FIAP | Ensino medio tecnico em Informatica pela FIAP School | HTML, CSS, JavaScript, Node.js e Banco de Dados
+## LinkedIn - headline
 
-## Sobre
+Estudante de Analise e Desenvolvimento de Sistemas na FIAP | Tecnico em Informatica pela FIAP School | JavaScript, Node.js, Banco de Dados e Desenvolvimento Web
+
+## LinkedIn - sobre
 
 Sou Juan Alejandro Corchado Almeida, estudante de Analise e Desenvolvimento de Sistemas na FIAP e formado no ensino medio tecnico em Informatica pela FIAP School.
 
-Estou no começo da minha carreira em TI e venho criando projetos para praticar front-end, back-end, banco de dados, APIs e publicacao de sistemas. Meus estudos hoje passam por HTML, CSS, JavaScript, Node.js, SQLite, Git, GitHub e fundamentos de seguranca em aplicacoes web.
+Estou no inicio da minha carreira em TI e venho criando projetos para praticar desenvolvimento web, back-end, banco de dados, APIs e publicacao de sistemas. Hoje meus estudos passam por HTML, CSS, JavaScript, Node.js, SQLite, PostgreSQL, MongoDB, Git e GitHub.
 
-Busco oportunidades de estagio ou projetos junior onde eu possa aprender com um time, ganhar experiencia real e evoluir como desenvolvedor.
+Tenho interesse em oportunidades de estagio ou posicoes junior onde eu possa aprender com um time, ganhar experiencia real e evoluir como desenvolvedor. Gosto de transformar ideias em projetos praticos e estou montando meu portfolio para mostrar minha evolucao de forma clara.
 
-## Experiencia / Projetos para LinkedIn
+## LinkedIn - formacao
+
+### FIAP
+
+Analise e Desenvolvimento de Sistemas, em andamento.
+
+### FIAP School
+
+Ensino medio tecnico em Informatica.
+
+## LinkedIn - projetos
 
 ### StudentBank
 
-Fintech criada para avaliacao na FIAP. Desenvolvi uma interface web inicial para organizar a ideia de uma solucao financeira voltada a estudantes.
+Fintech criada para avaliacao na FIAP. O projeto serviu para praticar estrutura de paginas, organizacao visual e criacao de uma ideia de produto financeiro voltado para estudantes.
 
 ### Teste Infosimples
 
-Script em JavaScript feito a partir de requisitos de um desafio para vaga de estagio em TI. O foco foi praticar leitura de regras, organizacao de codigo e entrega objetiva.
+Script em JavaScript feito a partir de requisitos de um desafio para vaga de estagio em TI. Usei o projeto para treinar leitura de regras, logica de programacao e entrega objetiva.
 
 ### Caixa da Oficina Online
 
-Sistema web em Node.js e SQLite para fluxo de caixa de oficinas, com login, perfis de usuario e separacao de dados por unidade. Projeto criado como MVP para treinar back-end, regras de negocio e controle de acesso.
+Sistema web em Node.js e SQLite para fluxo de caixa de oficinas, com login, perfis de usuario e separacao de dados por unidade. O projeto foi criado como MVP para praticar back-end, regras de negocio e controle de acesso.
 
 ### Oficina Pro SaaS
 
-Aplicacao multi-oficina com cadastro de usuarios, ordens de servico, controle de ponto, geracao de PDF e testes basicos. Usei o projeto para praticar APIs, autenticacao, permissoes e organizacao de produto.
+Aplicacao multi-oficina com usuarios, ordens de servico, controle de ponto, geracao de PDF e testes basicos. Usei o projeto para praticar APIs, autenticacao, permissoes e organizacao de produto.
 
-## Bio curta do GitHub
+## GitHub - bio curta
 
-Estudante de ADS na FIAP, formado no tecnico em Informatica pela FIAP School. Estudando JavaScript, Node.js, banco de dados e desenvolvimento web.
+Estudante de ADS na FIAP, tecnico em Informatica pela FIAP School. Estudando JavaScript, Node.js, banco de dados e desenvolvimento web.
 
-## README de perfil do GitHub
+## GitHub - README de perfil
+
+Para usar este texto no perfil do GitHub, crie um repositorio chamado `alej404T` e coloque o conteudo abaixo em um arquivo `README.md`.
 
 ```md
 # Oi, eu sou Juan Alejandro
@@ -54,11 +68,22 @@ Estou no começo da minha carreira em TI e uso este GitHub para guardar meus est
 ## Projetos
 
 - StudentBank: fintech criada para avaliacao na FIAP.
-- teste-infosimples: desafio em JavaScript para praticar requisitos e codigo.
+- teste-infosimples: desafio em JavaScript para praticar requisitos e logica.
 - Caixa da Oficina Online: sistema web de fluxo de caixa com login e perfis.
 - Oficina Pro SaaS: aplicacao multi-oficina com ordens de servico, ponto e PDF.
 
-## Contato
+## Objetivo
 
+Busco oportunidade de estagio ou vaga junior para aprender com projetos reais e evoluir como desenvolvedor.
+
+## Links
+
+- Portfolio: coloque aqui o link quando publicar
 - GitHub: https://github.com/alej404T
 ```
+
+## Checklist para atualizar os perfis
+
+- LinkedIn: atualizar headline, sobre, formacao, habilidades e projetos.
+- GitHub: atualizar bio, fixar os repositorios StudentBank e teste-infosimples, criar README de perfil e adicionar o link do portfolio.
+- Projetos locais: publicar primeiro o portfolio e depois decidir quais sistemas locais podem virar repositorios publicos sem expor dados sensiveis.

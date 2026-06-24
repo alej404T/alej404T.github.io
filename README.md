@@ -1,27 +1,31 @@
-# Portfolio pessoal
+# Portfolio pessoal - Juan Alejandro
 
-Pagina pessoal de Juan Alejandro Corchado Almeida para reunir formacao, estudos e projetos de TI.
+Portfolio de Juan Alejandro Corchado Almeida, estudante de Analise e Desenvolvimento de Sistemas na FIAP e formado no ensino medio tecnico em Informatica pela FIAP School.
 
-## Dados usados
+O site foi feito para reunir formacao, habilidades e projetos em uma pagina simples, rapida e pronta para publicar.
 
-- FIAP School: ensino medio tecnico em Informatica.
-- FIAP: Analise e Desenvolvimento de Sistemas, em andamento.
-- GitHub: <https://github.com/alej404T>
-- Projetos publicos encontrados:
-  - StudentBank
-  - teste-infosimples
-- Projetos locais adicionados:
-  - Caixa da Oficina Online
-  - Oficina Pro SaaS
+## Projetos destacados
 
-## Como abrir
+- StudentBank: fintech criada para avaliacao na FIAP.
+- teste-infosimples: script em JavaScript feito para um desafio de estagio em TI.
+- Caixa da Oficina Online: sistema web local para fluxo de caixa de oficinas.
+- Oficina Pro SaaS: aplicacao local multi-oficina com usuarios, ordens de servico, ponto e PDF.
+
+## Tecnologias usadas
+
+- HTML
+- CSS
+- JavaScript
+- GitHub Pages como opcao de publicacao
+
+## Como abrir localmente
 
 Abra o arquivo `index.html` no navegador.
 
-## Publicacao
+## Como publicar
 
-Opcoes boas para publicar:
+Veja o passo a passo no arquivo `publicacao-online.md`.
 
-- GitHub Pages, criando um repositorio chamado `portfolio` ou `alej404T.github.io`.
-- Netlify Drop, enviando esta pasta pelo navegador.
-- Vercel, importando o repositorio do GitHub.
+## Perfil
+
+- GitHub: <https://github.com/alej404T>
