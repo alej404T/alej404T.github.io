@@ -2,7 +2,12 @@
 
 Portfolio de Juan Alejandro Corchado Almeida, estudante de Analise e Desenvolvimento de Sistemas na FIAP e formado no ensino medio tecnico em Informatica pela FIAP School.
 
-O site foi feito para reunir formacao, habilidades e projetos em uma pagina simples, rapida e pronta para publicar.
+O site foi feito para reunir formacao, habilidades, contatos e projetos em uma pagina simples, rapida e publicada no GitHub Pages.
+
+## Links principais
+
+- Site publicado: <https://alej404t.github.io/>
+- Repositorio do portfolio: <https://github.com/alej404T/alej404T.github.io>
 
 ## Projetos destacados
 
