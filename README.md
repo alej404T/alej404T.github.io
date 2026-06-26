@@ -29,3 +29,5 @@ Veja o passo a passo no arquivo `publicacao-online.md`.
 ## Perfil
 
 - GitHub: <https://github.com/alej404T>
+- LinkedIn: <https://br.linkedin.com/in/alejandrocorchado>
+- E-mail: <alej.corchado@gmail.com>

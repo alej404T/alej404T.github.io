@@ -80,6 +80,8 @@ Busco oportunidade de estagio ou vaga junior para aprender com projetos reais e 
 
 - Portfolio: coloque aqui o link quando publicar
 - GitHub: https://github.com/alej404T
+- LinkedIn: https://br.linkedin.com/in/alejandrocorchado
+- E-mail: alej.corchado@gmail.com
 ```
 
 ## Checklist para atualizar os perfis

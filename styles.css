@@ -371,7 +371,7 @@ h3 {
 .contact p {
   max-width: 760px;
   color: #edf3f6;
-  margin-bottom: 0;
+  margin-bottom: 18px;
 }
 
 .contact .eyebrow {
@@ -387,6 +387,25 @@ h3 {
 .contact .button.secondary {
   border-color: rgba(255, 255, 255, 0.7);
   color: white;
+}
+
+.contact-list {
+  display: grid;
+  gap: 8px;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.contact-list a {
+  color: white;
+  font-weight: 700;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+}
+
+.contact-actions {
+  min-width: 220px;
 }
 
 footer {
