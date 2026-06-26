@@ -8,8 +8,8 @@ O site foi feito para reunir formacao, habilidades e projetos em uma pagina simp
 
 - StudentBank: fintech criada para avaliacao na FIAP.
 - teste-infosimples: script em JavaScript feito para um desafio de estagio em TI.
-- Caixa da Oficina Online: sistema web local para fluxo de caixa de oficinas.
-- Oficina Pro SaaS: aplicacao local multi-oficina com usuarios, ordens de servico, ponto e PDF.
+- Caixa da Oficina Online: sistema web para fluxo de caixa de oficinas.
+- Oficina Pro SaaS: aplicacao multi-oficina com usuarios, ordens de servico, ponto e PDF.
 
 ## Tecnologias usadas
 
@@ -31,3 +31,10 @@ Veja o passo a passo no arquivo `publicacao-online.md`.
 - GitHub: <https://github.com/alej404T>
 - LinkedIn: <https://br.linkedin.com/in/alejandrocorchado>
 - E-mail: <alej.corchado@gmail.com>
+
+## Repositorios dos projetos
+
+- StudentBank: <https://github.com/alej404T/StudentBank>
+- teste-infosimples: <https://github.com/alej404T/teste-infosimples>
+- Caixa da Oficina Online: <https://github.com/alej404T/caixa-oficina-online>
+- Oficina Pro SaaS: <https://github.com/alej404T/oficina-pro-saas>

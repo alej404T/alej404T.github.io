@@ -69,8 +69,8 @@ Estou no começo da minha carreira em TI e uso este GitHub para guardar meus est
 
 - StudentBank: fintech criada para avaliacao na FIAP.
 - teste-infosimples: desafio em JavaScript para praticar requisitos e logica.
-- Caixa da Oficina Online: sistema web de fluxo de caixa com login e perfis.
-- Oficina Pro SaaS: aplicacao multi-oficina com ordens de servico, ponto e PDF.
+- Caixa da Oficina Online: sistema web de fluxo de caixa com login e perfis. Repositorio: https://github.com/alej404T/caixa-oficina-online
+- Oficina Pro SaaS: aplicacao multi-oficina com ordens de servico, ponto e PDF. Repositorio: https://github.com/alej404T/oficina-pro-saas
 
 ## Objetivo
 
