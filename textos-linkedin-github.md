@@ -12,7 +12,11 @@ Sou Juan Alejandro Corchado Almeida, estudante de Analise e Desenvolvimento de S
 
 Estou no inicio da minha carreira em TI e venho criando projetos para praticar desenvolvimento web, back-end, banco de dados, APIs e publicacao de sistemas. Hoje meus estudos passam por HTML, CSS, JavaScript, Node.js, SQLite, PostgreSQL, MongoDB, Git e GitHub.
 
-Tenho interesse em oportunidades de estagio ou posicoes junior onde eu possa aprender com um time, ganhar experiencia real e evoluir como desenvolvedor. Gosto de transformar ideias em projetos praticos e estou montando meu portfolio para mostrar minha evolucao de forma clara.
+Tenho interesse em oportunidades de estagio ou posicoes junior onde eu possa aprender com um time, ganhar experiencia real e evoluir como desenvolvedor. Gosto de transformar ideias em projetos praticos e mantenho meu portfolio publicado para mostrar minha evolucao de forma clara: https://alej404t.github.io/
+
+## LinkedIn - site do perfil
+
+Portfolio: https://alej404t.github.io/
 
 ## LinkedIn - formacao
 
@@ -78,7 +82,7 @@ Busco oportunidade de estagio ou vaga junior para aprender com projetos reais e 
 
 ## Links
 
-- Portfolio: coloque aqui o link quando publicar
+- Portfolio: https://alej404t.github.io/
 - GitHub: https://github.com/alej404T
 - LinkedIn: https://br.linkedin.com/in/alejandrocorchado
 - E-mail: alej.corchado@gmail.com
